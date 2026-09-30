@@ -1,0 +1,522 @@
+body {
+    margin: 0;
+    background-color:#F7F3EB;
+}
+
+header{
+    margin:0;
+    background-color:#283324;
+    width: 100%;
+    height: 35px;
+    position:fixed;
+    z-index:2;
+}
+.b{
+    margin:0s;
+     background-color: #F7F3EB;
+     width:100%;
+     height:100px;
+     z-index:1;
+
+}
+
+.mayusculas{
+     margin: 0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#FAF7F2;
+}
+
+.a{
+    position:relative;
+    left:700px;
+    color:#222521;
+    text-decoration:none;
+    margin:20px;
+    z-index:2;
+}
+
+.p2{
+    display:inline-block;
+    position:relative;
+    left:-350px;
+    top:-75px;
+    margin:11px;
+    color:#222521;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-size:13px;
+    font-weight:400;
+}
+
+#centro{
+    position:relative;
+    top: 9px;
+    text-align: center;
+    font-size:13px;
+    color: white;
+    font-weight:400;
+    
+}
+
+#logo{
+    margin: 0;
+    position: relative;
+    left: 50px;
+    top: 40px;
+    color:#364230;
+    font-size: 50px;
+    font-weight:700;
+    font-family: "Playfair Display", serif;
+}
+
+#boton{
+    position:relative;
+    left:1000px;
+    text-decoration:none;
+    margin:20px;
+    background-color: #283324;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+
+#titulo1{
+    margin: 0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    position: relative;
+    left: 50px;
+    top: 300px;
+    font-size:13px;
+    font-weight:550;
+}
+
+#principal{
+    position:relative;
+    display:flex;
+    left:300px;
+    top:250px;
+}
+
+#titulo2{
+    font-family: "Playfair Display", serif;
+    color:#222521;
+    position:relative;
+    left:15px;
+    top:380px;
+    font-size:90px;
+    font-weight:700;
+    margin:0;
+}
+
+#conejito{ 
+    position:relative;
+    left:700px; 
+    width:980px; 
+    height:600px; 
+    object-fit:cover;
+    border-radius:30px; 
+    top:-49px; 
+}
+
+#p1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    position: relative;
+    left:15px;
+    top:-200px;
+    font-size:20px;
+    font-weight:100;
+}
+
+    #boton2{
+    position:relative;
+    left:50px;
+    top:-170px;
+    text-decoration:none;
+    margin:9px;
+    background-color: #283324;
+    color: white;
+    padding: 17px;
+    border-radius: 20px;
+    
+}
+
+#boton3{
+    position:relative;
+    left:60px;
+    top:-170px;
+    margin:9px;
+    color:#222521;
+    
+}
+
+#titulo3{
+    margin: 0;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    position: relative;
+    left: 50px;
+    top: 600px;
+    font-size:13px;
+    font-weight:550;
+}
+
+#titulo4{
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    color:#222521;
+    position: relative;
+    left: 50px;
+    top: 610px;
+    font-size:70px;
+    font-weight:550;
+}
+
+#p3{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    position: relative;
+    left:1200px;
+    top: 530px;
+    font-size:20px;
+    font-weight:100;
+}
+#fondo{
+    margin: 0;
+    position: relative;
+    top: 1590px;
+    font-size:13px;
+    font-weight:550;
+     width: 100%;
+    height: 1100px;
+    background-color:#283324;
+    
+}
+
+#titulo5{
+    margin: 0;
+    position: relative;
+    left:50px;
+    top:20px;
+    font-size:13px;
+    font-weight:550;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#FAF7F2;
+}
+
+#titulo6{
+    margin: 0;
+    font-family: "Playfair Display", serif;
+    color:#FAF7F2;
+    position: relative;
+    left: 50px;
+    top: 30px;
+    font-size:70px;
+    font-weight:500;
+}
+
+
+#p4{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#FAF7F2;
+    position: relative;
+    bottom:40px;
+    left:1200px;
+    font-size:20px;
+    font-weight:100;
+}
+
+#colecciones{ 
+    position:relative; 
+    top:700px; 
+    left:150px; 
+    width:1100px; 
+    height:500px; 
+}
+
+.tarjetaGrande{ 
+    position:absolute; 
+    left:0; 
+    top:0; 
+    width:590px; 
+    height:700px; 
+    object-fit:cover; 
+    border-radius:20px; 
+}
+
+.tarjeta{
+    position:absolute; 
+    width:400px; 
+    height:330px; 
+    object-fit:cover; 
+    border-radius:20px; 
+}
+
+#textoMadera{
+    position:absolute;
+    left:20px;
+    top:600px;
+    color:white;
+    font-family:"Playfair Display", serif;
+}
+
+#textoAmigurumi{
+    position:absolute;
+    left:700px;
+    top:250px;
+    color:white;
+    font-family:"Playfair Display", serif;
+}
+
+#textoMicro{
+    position:absolute;
+    left:1110px;
+    top:250px;
+    color:white;
+    font-family:"Playfair Display", serif;
+}
+
+#textoFili{
+    position:absolute;
+    left:700px;
+    top:600px;
+    color:white;
+    font-family:"Playfair Display", serif;
+}
+
+#pinguino{
+    left:1100px;
+    top:0;
+}
+
+#conejito2{
+    left:690px;
+    top:0;
+}
+
+#cuadro{
+    left:1100px;
+    top:340px;
+}
+
+#plato{
+    left:690px;
+    top:340px;
+}
+
+.producto{
+    position:relative;
+    top:100px;
+    width:500px;
+    height:415px;
+    object-fit:cover;
+    border-radius:15px;
+    margin-left:40px;
+}
+
+.nProducto{
+    position:absolute;
+    top:650px;
+    color:#222521;
+    background-color:#F7F3EB;
+    padding:25px;
+    width:450px;
+    height:200px;
+    font-family:"Playfair Display", serif;
+    font-size:37px;
+    border-radius:0 0 15px 15px;
+}
+
+#producto1{
+    left:39px;
+}
+
+#producto2{
+    left:585px;
+}
+
+#producto3{
+    left:1125px;
+}
+
+#cotizar1{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    font-size:20px;
+    position:relative;
+    top:289px;
+    left:-1200px;
+
+}
+
+#cotizar2{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    font-size:20px;
+    position:relative;
+    top:289px;
+    left:-720px;
+
+}
+
+#cotizar3{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color:#222521;
+    font-size:20px;
+    position:relative;
+    top:268px;
+    left:1540px;
+
+}
+
+#esencia{
+    position:relative;
+    top:1590px;
+    width:100%;
+    height:600px;
+}
+
+#letraA{
+    position:absolute;
+    left:50px;
+    top:100px;
+    font-family:"Playfair Display", serif;
+    font-size:90px;
+    color:#B8C2AC;
+}
+
+#tituloEsencia{
+    position:absolute;
+    left:180px;
+    top:100px;
+    font-family:"Playfair Display", serif;
+    font-size:45px;
+    color:#222521;
+}
+
+#textoEsencia{
+    position:absolute;
+    left:180px;
+    top:230px;
+    width:450px;
+    font-family:"Plus Jakarta Sans", sans-serif;
+    color:#555;
+    font-size:15px;
+}
+
+#kimberly{
+    position:absolute;
+    left:180px;
+    top:340px;
+    font-family:"Playfair Display", serif;
+    color:#222521;
+}
+
+#frase{
+    position:absolute;
+    left:900px;
+    top:180px;
+    width:400px;
+    font-family:"Playfair Display", serif;
+    font-size:25px;
+    font-style:italic;
+    color:#222521;
+}
+
+#pedido{
+    position:relative;
+    top:1590px;
+    width:100%;
+    height:350px;
+}
+
+#pedido h1{
+    position:absolute;
+    left:50px;
+    top:80px;
+    font-family:"Playfair Display", serif;
+    font-size:50px;
+    color:#222521;
+}
+
+#pedido p{
+    position:absolute;
+    left:650px;
+    top:100px;
+    width:350px;
+    font-family:"Plus Jakarta Sans", sans-serif;
+    color:#555;
+}
+
+#pedido a{
+    position:absolute;
+    left:1050px;
+    top:130px;
+    background-color:#283324;
+    color:white;
+    padding:15px 25px;
+    border-radius:25px;
+    text-decoration:none;
+    font-family:"Plus Jakarta Sans", sans-serif;
+}
+
+#pie{
+    position:relative;
+    top:1590px;
+    width:100%;
+    height:350px;
+    background-color:#283324;
+    color:#FAF7F2;
+    padding:50px;
+    box-sizing:border-box;
+    font-family:"Plus Jakarta Sans", sans-serif;
+}
+
+#pie1{
+    font-family:"Playfair Display", serif;
+}
+
+#piexplora{
+    position:relative;
+    left:685px;
+    top:-110px;
+    font-size:16px;
+}
+#piecategoria{
+    position:relative;
+    left:930px;
+    top:-242px;
+    font-size:16px;
+
+}
+
+
+#pie2{
+    position:absolute;
+    right:80px;
+    top:70px;
+    font-family:"Playfair Display", serif;
+    font-size:25px;
+}
+
+.piep1{
+    font-size:14px;
+    position:relative;
+    left:670px;
+    top:-100px;
+}
+
+.piep2{
+    font-size:14px;
+    position:relative;
+    left:940px;
+    top:-235px;
+}
+
+#creditos{
+    font-family:"Plus Jakarta Sans", sans-serif;
+    position:relative;
+    top:-120px;
+    
+}
